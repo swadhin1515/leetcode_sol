@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/leetcode_sol](https://github.com/swadhin1515/leetcode_sol)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|12/14/23 <br/>Report generated|
+|2<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
